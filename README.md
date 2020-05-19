@@ -4,7 +4,7 @@ This is a simple game made with Pygame where your goal is to catch as many balls
 
 ## Usage
 
-To play the game, clone the repository, install Pygame if needed and run alien_invasion.py.
+To play the game, clone the repository, install Pygame if needed and run catch.py.
 
 ## Technologies:
 <ul>
